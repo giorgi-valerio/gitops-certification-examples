@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/codefresh-contrib/gitops-certification-examples.git
+    repoURL: https://github.com/giorgi-valerio/gitops-certification-examples.git
     targetRevision: HEAD
     path: ./declarative/manifests
    
